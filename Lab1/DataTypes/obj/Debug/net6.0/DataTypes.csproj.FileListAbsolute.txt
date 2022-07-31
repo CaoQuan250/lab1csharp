@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\CSHARP\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

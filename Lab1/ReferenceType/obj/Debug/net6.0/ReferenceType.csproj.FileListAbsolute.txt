@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\CSHARP\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll
