@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\bin\Debug\net6.0\Ex5.exe
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\bin\Debug\net6.0\Ex5.deps.json
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\bin\Debug\net6.0\Ex5.runtimeconfig.json
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\bin\Debug\net6.0\Ex5.dll
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\bin\Debug\net6.0\Ex5.pdb
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.dll
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\refint\Ex5.dll
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.pdb
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\Ex5.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\CSHARP\Ex5\obj\Debug\net6.0\ref\Ex5.dll
